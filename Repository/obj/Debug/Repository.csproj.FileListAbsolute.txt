@@ -1,0 +1,2 @@
+C:\Users\krish\Documents\Visual Studio 2017\Projects\UOW\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\krish\Documents\Visual Studio 2017\Projects\UOW\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
