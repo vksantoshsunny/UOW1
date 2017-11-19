@@ -9,3 +9,14 @@ C:\Users\krish\Documents\Visual Studio 2017\Projects\UOW\Data\obj\Debug\Data.csp
 C:\Users\krish\Documents\Visual Studio 2017\Projects\UOW\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
 C:\Users\krish\Documents\Visual Studio 2017\Projects\UOW\Data\obj\Debug\Data.dll
 C:\Users\krish\Documents\Visual Studio 2017\Projects\UOW\Data\obj\Debug\Data.pdb
+C:\Users\krish\Documents\UOW1\Data\bin\Debug\Data.dll.config
+C:\Users\krish\Documents\UOW1\Data\bin\Debug\Data.dll
+C:\Users\krish\Documents\UOW1\Data\bin\Debug\Data.pdb
+C:\Users\krish\Documents\UOW1\Data\bin\Debug\EntityFramework.dll
+C:\Users\krish\Documents\UOW1\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\krish\Documents\UOW1\Data\bin\Debug\EntityFramework.xml
+C:\Users\krish\Documents\UOW1\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\krish\Documents\UOW1\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\krish\Documents\UOW1\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\krish\Documents\UOW1\Data\obj\Debug\Data.dll
+C:\Users\krish\Documents\UOW1\Data\obj\Debug\Data.pdb
